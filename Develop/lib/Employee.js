@@ -5,7 +5,7 @@ class Employee {
         this.id = id;
         this.email = email;
     }
-    getname() {
+    getName() {
         return this.name;
     }
     getId() {
@@ -19,4 +19,4 @@ class Employee {
     }
 }
 
-module.exports = Employee
+module.exports = Employee;
