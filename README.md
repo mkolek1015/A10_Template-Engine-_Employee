@@ -32,7 +32,7 @@ GitHub: https://github.com/mkolek1015
 Mike Kolek
 
 
-![Image of Questions]((https://github.com/mkolek1015/A10_Template-Engine-_Employee/blob/main/Assets/Questions%20SS.jpg)
+![Image of Questions](https://github.com/mkolek1015/A10_Template-Engine-_Employee/blob/main/Assets/Questions%20SS.jpg)
 
 ![Image of My Team](https://github.com/mkolek1015/A10_Template-Engine-_Employee/blob/main/Assets/MyTeam%20SS.jpg)
 
