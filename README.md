@@ -36,5 +36,3 @@ Mike Kolek
 
 ![Image of My Team](https://github.com/mkolek1015/A10_Template-Engine-_Employee/blob/main/Assets/MyTeam%20SS.jpg)
 
-![Video Demo](https://youtu.be/w7jHs8rx03M)
-
